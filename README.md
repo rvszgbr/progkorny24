@@ -1,1 +1,3 @@
-# progkorny24
+# Music catalog
+
+Demo webapp for Programming Environments
